@@ -1,2 +1,3 @@
-this is my firstapp creat and push in remote repose
-thats it 
+this is my firstapp creat and push in remote repose.
+and this is all about ci/cd subject
+ 
